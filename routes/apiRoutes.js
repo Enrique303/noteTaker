@@ -1,4 +1,4 @@
-const notes = require('../data/notes');
+const notes = require('../db/db.json');
 const fs = require('fs');
 const path = require('path');
 
